@@ -23,5 +23,6 @@
 - Don't over resource (i.e. servers)
 
 ## Security
-- [OWASP ASVS](https://github.com/OWASP/ASVS)
-- [CIS](https://www.cisecurity.org)
+- Follow industry best practices (i.e. [OWASP ASVS](https://github.com/OWASP/ASVS), [CIS](https://www.cisecurity.org))
+- Stay up to date
+- Recieve a 3rd party audit periodically
