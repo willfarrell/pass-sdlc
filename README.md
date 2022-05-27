@@ -21,6 +21,7 @@
 - Monitor carbon footprint for running the platform
 - Estimate carbon footprint of visitors transmission of content
 - Don't over resource (i.e. servers)
+- Save-Data / Low bandwidth mode
 
 ## Security
 - Follow industry best practices (i.e. [OWASP ASVS](https://github.com/OWASP/ASVS), [CIS](https://www.cisecurity.org))
