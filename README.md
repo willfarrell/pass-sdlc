@@ -1,7 +1,7 @@
 <div align="center">
   <h1>PASS-SDLC</h1>
   Privacy, Accessibility, Sustainability, Security<br/>Software Development Lifecycle<br/><br/>
-  Building with consumers through inclusive design.
+  Building with consumers through inclusive and ethical design.
 </div>
 
 ## Privacy
@@ -12,11 +12,12 @@
 ## Accessibility
 - Invest in UX and design to ensure it's easy to use
 - [Web Content Accessibility Guidelines (WCAG)](https://www.w3.org/WAI/standards-guidelines/wcag/) and beyond
+- Support i18n & i10n
 - Uses Progressive Enhansment to ensure core functionality without JavaScript
 - Works on older devices
 - Works on on slow or intermitent networks
 
-## Sustainability
+## Sustainability (Environmental)
 - Use of green data centres
 - Monitor carbon footprint for running the platform
 - Estimate carbon footprint of visitors transmission of content
@@ -27,3 +28,5 @@
 - Follow industry best practices (i.e. [OWASP ASVS](https://github.com/OWASP/ASVS), [CIS](https://www.cisecurity.org))
 - Stay up to date
 - Recieve a 3rd party audit periodically
+
+What about performance? That's built into Accessibility & Sustainability.
