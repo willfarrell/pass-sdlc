@@ -8,6 +8,8 @@
 - Meet the strictest internation approch to Privacy. GDPR / Bill C-11
 - No 3rd party code that collects and/or shares Personaly Identifiable Information (PII)
 - Additional layer of encryption within storage
+- Write a privacy policy first to be a strict as possible. Privacy leads design/technology, instead of
+- Evaliate impact to 
 
 ## Accessibility
 - Invest in UX and design to ensure it's easy to use
@@ -25,7 +27,8 @@
 - Save-Data / Low bandwidth mode
 
 ## Security
-- Follow industry best practices (i.e. [OWASP ASVS](https://github.com/OWASP/ASVS), [CIS](https://www.cisecurity.org))
+- Follow industry best practices (i.e. [OWASP ASVS](https://github.com/OWASP/ASVS), [CIS](https://www.cisecurity.org))\
+- Build to the highest standard possible, then document when a criteria needs to be loosen (maybe for UX). 
 - Stay up to date
 - Recieve a 3rd party audit periodically
 
