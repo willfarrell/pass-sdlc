@@ -9,13 +9,13 @@
 - No 3rd party code that collects and/or shares Personaly Identifiable Information (PII)
 - Additional layer of encryption within storage
 - Write a privacy policy first to be a strict/short as possible. Privacy leads design/technology.
-- Evaliate impact to privacy policy when adding new inputs/featues
+- Evaluate impact to privacy policy when adding new inputs/featues
 
 ## Accessibility
 - Invest in UX and design to ensure it's easy to use
 - [Web Content Accessibility Guidelines (WCAG)](https://www.w3.org/WAI/standards-guidelines/wcag/) and beyond
 - Support i18n & i10n
-- Uses Progressive Enhansment to ensure core functionality without JavaScript
+- Uses Progressive Enhancement to ensure core functionality without JavaScript
 - Works on older devices
 - Works on on slow or intermitent networks
 
