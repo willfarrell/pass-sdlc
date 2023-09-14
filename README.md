@@ -12,14 +12,15 @@
 - Evaluate impact to privacy policy when adding new inputs/featues
 
 ## Accessibility
+- [Web Content Accessibility Guidelines (WCAG)](https://www.w3.org/WAI/standards-guidelines/wcag/)
 - Invest in UX and design to ensure it's easy to use
-- [Web Content Accessibility Guidelines (WCAG)](https://www.w3.org/WAI/standards-guidelines/wcag/) and beyond
 - Support i18n & i10n
 - Uses Progressive Enhancement to ensure core functionality without JavaScript
 - Works on older devices
 - Works on on slow or intermitent networks
 
 ## Sustainability (Environmental)
+- [Web Sustainability Guidelines (WSG)](https://w3c.github.io/sustyweb/#use-a-design-system-to-prioritize-interface-consistency)
 - Use of green data centres
 - Monitor carbon footprint for running the platform
 - Estimate carbon footprint of visitors transmission of content
